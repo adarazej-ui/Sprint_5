@@ -1,9 +1,0 @@
-__pycache__/
-.pytest_cache/
-.vscode/
-.idea/
-*.log
-venv/
-.venv/
-.coverage
-htmlcov/
